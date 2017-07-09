@@ -2,6 +2,7 @@
 
 Aplication web (index --> /listProduct)
 
+Eclipse Mars 2 / Windows 7 / 32bit
 
 Build Path
 	Apache Tomcar	8.0
